@@ -1,0 +1,8 @@
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Корзина и настройки Obsidian (если окажутся внутри)
+.trash/
+.obsidian/
