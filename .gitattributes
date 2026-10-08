@@ -1,0 +1,6 @@
+# Единые переводы строк (LF) для всех текстовых файлов
+* text=auto eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
